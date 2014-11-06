@@ -640,11 +640,13 @@ main
     width: 100%;
     font-size: 0.8em;
     border: none;
-    border-radius: 12px;
+    border-radius: 2px;
     box-sizing:border-box;
     -moz-box-sizing:border-box;
     padding-left: 10px;
     padding-right: 30px;
+    background-color: #32485C;
+    color: #FFFFFF;
 }
 
 #search:before {
